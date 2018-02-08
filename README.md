@@ -1,4 +1,4 @@
-# guidelines
+# Guidelines
 conceptual style-guide for our starters
 
 The objective of this open source github organization is to hold a collection of starters that behave identically in all Front End frameworks in terms of conceptual architecture.
@@ -24,5 +24,10 @@ The Frameworks we would like to support are:
 - Vue
 - Ember
 
-# contributing
+
+# Philosophy
+
+[ TODO ]
+
+# Contributing
 Feel free to submit a PR!
