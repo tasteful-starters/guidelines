@@ -13,7 +13,7 @@ The starters all meet the following requirements:
   - crearting components
   - creating routes
   - creating stores
-  - documenting [ Hacks ]
+  - documenting *bad code*
 - 🙅no SSR (or optionable)
 - 🎅command for deploying as an S3 static website
 
