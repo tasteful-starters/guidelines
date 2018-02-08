@@ -1,7 +1,7 @@
 # guidelines
-conceptual style-guide
+conceptual style-guide for our starters
 
-The objective of this organization is to hold a collection of starters that behave identically in all FE frameworks in terms of conceptual architecture.
+The objective of this open source github organization is to hold a collection of starters that behave identically in all FE frameworks in terms of conceptual architecture.
 
 The starters all meet the following requirements:
 
