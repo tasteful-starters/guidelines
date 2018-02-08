@@ -13,6 +13,7 @@ The starters all meet the following requirements:
   - crearting components
   - creating routes
   - creating stores
+- 🙅no SSR (or optionable)
 
 The Frameworks we would like to support are:
 - React
