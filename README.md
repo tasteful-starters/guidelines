@@ -14,7 +14,7 @@ The starters all meet the following requirements:
   - creating routes
   - creating stores
 - 🙅no SSR (or optionable)
-- 🎅command for deploying as an S3 static website from AWS
+- 🎅command for deploying as an S3 static website
 
 The Frameworks we would like to support are:
 - React
