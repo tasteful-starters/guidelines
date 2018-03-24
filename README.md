@@ -5,17 +5,18 @@ The objective of this open source github organization is to hold a collection of
 
 The starters all meet the following requirements:
 
-- 💆less than 3 short iterations from it's framework's most used CLI
-- 💫redux (with multiple, lazy-loaded, unit tested stores)
-- ❄️environment variables
-- ⭐️100% Page Speed Rating
-- 🦉style-guide/generator for:
+- 💆 less than 3 short iterations from it's framework's most used CLI
+- 💫 redux (with multiple, lazy-loaded, unit tested stores)
+- ❄️ environment variables
+- ✈️ aliases for globally relevant folders/modules
+- ⭐️ 100% Page Speed Rating
+- 🦉 style-guide/generator for:
   - crearting components
   - creating routes
   - creating stores
   - documenting *bad code*
-- 🙅no SSR (or optionable)
-- 🎅command for deploying as an S3 static website
+- 🙅 no SSR (or optionable)
+- 🎅 command for deploying as an S3 static website
 
 The Frameworks we would like to support are:
 - React

@@ -3,6 +3,8 @@
 - [ ] FE best/bad practice list
     - local & global state - both are bad :p
     - functional pure functions
+    - folder structure
+        - 7 items per folder rule
 
 - [ ] Dev Tools list
 
